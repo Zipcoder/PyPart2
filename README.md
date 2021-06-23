@@ -1,7 +1,7 @@
 # Part 2
 
 ## Accompanying resources
-* Slide deck: https://zipcoder.github.io/reveal-slides.data-engineering/zcw_content/python/fundamentals-part2.html
+* Slide deck: https://zipcoder.github.io/curriculum-assets/lectures/python/functions/
 
 ## Exercise 1
 
